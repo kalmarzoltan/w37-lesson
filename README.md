@@ -9,3 +9,9 @@
 <kalmarzoltan82@gmail.com><br/>
 
 ### Steps:
+
+0. Created maven project
+1. Dependencies: jUnit, hamresct matchers, mockito
+2. Travis config
+3. gitignore
+4. git repo url
